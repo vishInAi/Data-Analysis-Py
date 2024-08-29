@@ -127,13 +127,10 @@ ib** and **Seaborn**.
 - Don't forget to ⭐ this repo and follow me on GitHub for more exciting content on data analysis and Python!
 
 ### Happy Analyzing! 🚀
-.
-.
-.
-.
-.
-.
-.
+#
+#
+#
+
 ### **Instructions**
 1. Replace placeholders like `yourusername` and `your-repo` with your actual GitHub details.
 2. Customize any sections or links as needed, such as adding real links to `CONTRIBUTING.md` or `LICENSE`.
