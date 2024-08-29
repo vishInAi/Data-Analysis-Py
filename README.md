@@ -4,6 +4,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/vishInAi/Data-Analysis-Py?style=social)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/github/license/vishInAi/Data-Analysis-Py)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwesh-panchal/)
 
 Welcome to **Data Analysis with Python**, your comprehensive guide to mastering data analysis using Python! In this repository, you'll find everything you need to get started with data analysis, including tutorials, projects, and challenges to hone your skills.
 
@@ -60,7 +61,7 @@ Data Analysis has transformed significantly over the past few years with the ris
    ```bash
    git clone https://github.com/yourusername/your-repo.git
 
-ib** and **Seaborn**.
+2. **ib** and **Seaborn**.
 - 🧹 Data cleaning techniques to prepare your data for analysis.
 - 📝 The essentials of **Jupyter Notebooks** for interactive data analysis.
 
