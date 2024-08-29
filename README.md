@@ -1,9 +1,9 @@
 # 📊 Data Analysis with Python 🐍
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo?style=social)
+![GitHub followers](https://img.shields.io/github/followers/vishInAi?style=social)
+![GitHub stars](https://img.shields.io/github/stars/vishInAi/Data-Analysis-Py?style=social)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/github/license/yourusername/your-repo)
+![License](https://img.shields.io/github/license/vishInAi/Data-Analysis-Py)
 
 Welcome to **Data Analysis with Python**, your comprehensive guide to mastering data analysis using Python! In this repository, you'll find everything you need to get started with data analysis, including tutorials, projects, and challenges to hone your skills.
 
